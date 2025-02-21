@@ -1,0 +1,12 @@
+{
+  "homepage": "https://martin-wrede.github.io/python-chatbot/",
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
